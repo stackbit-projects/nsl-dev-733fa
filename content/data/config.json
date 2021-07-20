@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Event",
-        "logo": "/images/logo 10kb.png",
+        "logo": "/images/2-days.svg",
         "logo_alt": "Event logo",
         "has_primary_nav": true,
         "has_secondary_nav": true,
