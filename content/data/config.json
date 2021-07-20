@@ -91,5 +91,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://nsl-dev-733fa.netlify.app"
+    "domain": "https://nsl-dev-733fa.netlify.app",
+    "favicon": "/images/192 x 192 igeconect logo.png"
 }
