@@ -81,7 +81,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; IGE Limited. All rights reserved. This website was created with <a href=\"https://www.studio.appycentral.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">IGEconnect</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; IGE Limited. All rights reserved. This website was created with <a href=\"https://www.studio.appycentral.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">IGEconnect</a>. Create yours <a href=\"https://app.appy.com/create?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "announcement": {
         "has_anncmnt": true,
