@@ -7,7 +7,7 @@
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "Event",
+        "title": "IGElearni",
         "logo": "/images/2-days.svg",
         "logo_alt": "Event logo",
         "has_primary_nav": true,
