@@ -448,13 +448,16 @@ sections:
   - type: grid_section
     grid_items:
       - title: Address
-        content: |-
-          1234 Some St.<br/>
-          Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)<br/>
+        content: |
+          Kemp House, \<br> 152 - 160 City Road, \<br> London EC1V 2NX
 
-          **Time:** 9:30 AM to 3:30 PM
+
+          [1-234-556-7890](tel:+12345567890)
+
+
+          [h](mailto:email@example.com)ello@limited.com
+
+          **Time:** 8:30 AM to 5:30 PM
       - title: Follow Us
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
